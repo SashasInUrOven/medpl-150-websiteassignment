@@ -1,0 +1,32 @@
+body {
+    background-color: #00B2A9;
+    color: #FFA500;
+    font-size: 16px;
+    line-height: 1.5;
+    font-family: "Times New Roman", Times, serif;
+}
+
+h1 {
+    font-size: 20px;
+    font-style: bolder;
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+h4 {
+    font-size: 20px;
+}
+
+p {
+    font-size: 16px;
+    font-style: normal;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
