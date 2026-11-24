@@ -21,6 +21,15 @@ div a {
     border-style: outset;
 }
 
+a:hover {
+    color: #000000;
+    background-color: #e2e2e2;
+    font-size: 13px;
+    padding: 2px;
+    border-color: #e2e2e2;
+    border-style: inset;
+}
+
 h1 {
     font-size: 20px;
     font-family: Monaco, Helvetica, Copperplate;
